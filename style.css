@@ -1,0 +1,18 @@
+body {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  background-color: antiquewhite;
+}
+
+#pagination{
+    position: relative;
+    top: 100px;
+    left: 350px;
+}
+
+.page-link{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
